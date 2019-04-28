@@ -1,0 +1,6 @@
+.sfdx
+.vscode
+.forceignore
+config
+sfdx-project.json
+README.md
